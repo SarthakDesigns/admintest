@@ -1,9 +1,6 @@
-{
-  "images": [
+ [
     {
-      "url": "path/to/image1.jpg",
-      "details": "Image 1"
-      
+      "imagePath": "path/to/image1.jpg",
+      "description": "Image 1"
     }
   ]
-}
